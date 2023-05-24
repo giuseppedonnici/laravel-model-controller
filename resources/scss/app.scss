@@ -1,0 +1,10 @@
+@use './partials/card' as *;
+@import '~bootstrap/scss/bootstrap';
+
+main {
+    background-color: black;
+}
+
+h1 {
+    color: bisque;
+}
